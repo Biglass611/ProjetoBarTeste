@@ -1,0 +1,27 @@
+
+    
+     body { background-color: #000;
+            font-family: Arial, Helvetica, sans-serif;
+            background-image: url('imagens/wallpapersden.com_synthwave-and-retrowave_3840x2160.jpg');
+            background-position: center top;
+            background-repeat: no-repeat;
+            background-size: cover;
+
+        }
+
+
+    h1 {text-align: center;
+       color: #910024;
+       background-color: #d355a5;
+    }
+     
+   h2 {
+      color: #2600ff;
+      
+   } 
+
+
+   a{
+      color: rgb(170, 0, 255);
+   }
+   

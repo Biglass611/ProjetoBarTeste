@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    background-image: url('imagens/synthwave-of-retro-night.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+main {
+    background-color: blueviolet;
+    width: 350px;
+    color:rgb(0, 0, 0)
+
+}
+
+h3 {
+    color: aqua;
+
+}
